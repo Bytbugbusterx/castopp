@@ -1,20 +1,55 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Toyota with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What year was Toyota founded?",
+      "answers": ["1937", "1955", "1967"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Which model is Toyota's hybrid?",
+      "answers": ["Camry", "Prius", "Corolla"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Where is Toyota's headquarters?",
+      "answers": ["Tokyo", "Nagoya", "Toyota"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is Toyota's luxury brand?",
+      "answers": ["Lexus", "Acura", "Infiniti"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Which Toyota is a compact car?",
+      "answers": ["Yaris", "Avalon", "Hilux"],
       "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Toyota's slogan?",
+      "answers": ["Zoom-Zoom", "Drive Your Dream", "Let's Go Places"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which is a Toyota SUV?",
+      "answers": ["Civic", "RAV4", "Accord"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Toyota's pickup truck?",
+      "answers": ["Tacoma", "Ridgeline", "Frontier"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is a Toyota sports car?",
+      "answers": ["Supra", "Miata", "370Z"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which Toyota is an electric car?",
+      "answers": ["Bolt", "Leaf", "bZ4X"],
+      "correctAnswerIndex": 2
     }
   ]
 }
